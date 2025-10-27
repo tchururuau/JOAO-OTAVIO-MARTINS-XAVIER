@@ -1,0 +1,5 @@
+{
+  "name": "Vita Blue Gestão",
+  "description": "A management system for a water tank cleaning service, allowing users to manage clients, schedule services, and view logistics and maintenance reports.",
+  "requestFramePermissions": []
+}
